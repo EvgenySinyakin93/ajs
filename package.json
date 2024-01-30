@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/evgenysinyakin93/EvgenySinyakin93/ajs/issues"
   },
-  "homepage": "https://github.com/evgenysinyakin93/EvgenySinyakin93/ajs#readme"
+  "homepage": "https://github.com/evgenysinyakin93/EvgenySinyakin93/ajs#readme",
+  "dependencies": {
+    "@evgenysinyakin93/ajs": "^1.0.0"
+  }
 }
